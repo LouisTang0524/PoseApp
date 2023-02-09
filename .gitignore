@@ -1,0 +1,10 @@
+demo_outputs/
+lightning_logs/
+saved_weights/
+.ipynb_checkpoints
+
+*.pth
+*.jpg
+*.onnx
+*.ttf
+*.log
